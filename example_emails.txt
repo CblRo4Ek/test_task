@@ -1,0 +1,7 @@
+user1@example.com
+user2@nonexistent-domain-xyz-12345.test
+user3@gmail.com
+user4@mail.ru
+user5@yandex.ru
+user6@yandex.r
+badformat@@example
